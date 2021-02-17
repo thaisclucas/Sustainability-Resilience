@@ -1,0 +1,9 @@
+Installation;Type;Classification;Initial Capacities;Open Facilities Investments;Fixed Costs;Minimum Additional Capacities;Maximum Additional Capacities;Additional Capacities Investments;Required Resources To Recovering;LJR;Province Zone;Region Zone;Disruption Probability;Manufacturing Costs;Manufacturing Emissions
+1;Manufacturing;New;500000;20000000;1500;0;50000;4200;1;0,006;1;1;0,03;0,2;0,11
+2;Manufacturing;Open;610500;18750000;2000;0;55000;4700;1;0,0056;1;11;0,01;0,24;0,12
+3;Warehouse;Open;800000;7500000;200;0;500000;3800;1;0,0065;1;2;0,003;;
+4;Warehouse;New;1000000;8750000;250;0;500000;2100;1;0,001;1;1;0,028;;
+5;Warehouse;New;1000000;17500000;250;0;500000;2200;1;0,0008;5;20;0,029;;
+6;Warehouse;New;1000000;8250000;250;0;500000;2100;1;0,0012;2;12;0,0175;;
+7;Warehouse;New;700000;7000000;100;0;500000;2400;1;0,0009;1;7;0,013;;
+8;Warehouse;New;1000000;7000000;250;0;500000;2000;1;0,0011;4;15;0,012;;

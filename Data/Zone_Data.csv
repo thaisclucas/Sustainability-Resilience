@@ -1,0 +1,24 @@
+#Province;Province Name;UR;GDPI;Yz;#Region;Region Name;Probability
+1;MidEast;0,054;0,244;0,0903;1;Drogheda;0,003
+;;;;;2;Dundalk;0,029
+;;;;;3;Navan;0,013
+;;;;;4;Naas;0,01
+;;;;;5;Newbridge;0,08
+;;;;;6;Leixlip;0,172
+;;;;;7;Bray;0,175
+;;;;;8;Arklow;0,12
+;;;;;9;Wicklow;0,03
+;;;;;10;Greystones;0,03
+;;;;;11;Ballitore;0,04
+2;Midland;0,080;0,184;0,0330;12;Tullamore;0,09
+;;;;;13;Port Laoise;0,052
+3;MidWest;0,052;0,379;0,0863;14;Clonmel;0,098
+4;SouthEast;0,072;0,238;0,0584;15;Waterford;0,03
+;;;;;16;Tramore;0,10
+;;;;;17;Kilkenny;0,078
+;;;;;18;Wexford;0,084
+;;;;;19;Ennoscorthy;0,059
+5;Dublin;0,053;0,125;0,4179;20;Dublin city;0,13
+;;;;;21;Dun Laoghaire;0,04
+;;;;;22;Fingal;0,03
+;;;;;23;South Dublin;0,02
